@@ -1,0 +1,222 @@
+Type: Science
+
+Name: COVID-19 Awareness
+Description: “I got you COVID: A Public Awareness Campaign in COVID-19”
+
+1. What is COVID-19?
+- A bacterial infection
+# A respiratory illness
+# A virus
+- Just the flu!
+
+2. Is COVID-19 deadly?
+- No
+# Yes
+
+3. Is the coronavirus like the flu?
+- Yes
+# No
+
+----------
+
+Name: Science Lab Safety
+Description: This kahoot looks at #science #lab #safety #rules and #best #practices that are typically used in most science lab #classrooms
+
+1. It is helpful, but not necessarily important, to follow lab safety rules.
+- True
+# False
+
+2. Which of the following should NOT be disposed of in the sink?
+- lemon juice
+- colored water
+# sand
+- baking soda dissolved in water
+
+3. What should you wear to protect your eyes in the lab when mixing chemicals, heating a solution, etc? Safety _______
+# Glasses
+# Goggles
+- Safety glasses
+- Gogles
+
+----------
+
+Name: Biology: Photosynthesis Review
+Description: Review the reactants, products, and functions of #photosynthesis . #Biology #grade9 #grade10 #grade11 #grade12 #science #chlorophyll #thylakoid
+
+1. Which type of molecule captures the sun's energy by absorbing light?
+- NADP+
+# pigment
+- ATP Synthase
+- C4
+
+2. What principal plant pigment absorbs light best in the blue-violet regions of the EM spectrum?- 
+# chlorophyll
+- carotenoids
+- thylakoid
+- stroma
+
+3. Where does photosynthesis take place?
+- nucleus
+- cytoplasm
+# chloroplast
+- mitochondrion
+
+----------
+
+Name: Biology: The Structure and Function of DNA
+Description: Review the structure and function of DNA in eukaryotic cells. #Biology #science #grade8 #grade9 #grade10 #grade11 #eukaryoticcells #DNA
+
+1. Which eukaryotic cell organelle contains DNA molecules?
+- cellular membrane
+- lysosome
+# nucleus
+- ribosomes
+
+2. A nucleotide of DNA does NOT contain...
+- deoxyribose sugar
+# amino acid
+- nitrogen base
+- phosphate group
+
+----------
+
+Name: Biology: The Characteristics of Life
+Description: Review the characteristics of life. #Biology #grade9 #grade10 #grade11 #grade12 #science #DNA #sexualreproduction #asexualreproduction #metabolism #cells #homeostasis #evolution
+
+1. For an organism to be considered a living thing, it must have ALL the characteristics of life.
+# true
+- false
+
+2. In what molecule is an organism's genetic code written?
+- cells
+# DNA
+- RNA
+- nucleotide
+
+3. Which of the following is an example of development?
+- a tree trunk widens
+- a fish becomes larger
+# a tadpole becomes a frog
+
+4. You touch a hot stove and quickly pull your hand away. What is the stimulus?
+- pulling away
+# touching the stove
+- speed of reaction
+
+
+
+----------------------------------------------------------------------------------
+Type: History
+
+Name: Dinosaurs
+Description: A #prehistoric kahoot designed to test your knowledge on #dinosaurs and their #history !
+
+1. The word dinosaur means...
+- large reptile.
+- angry reptile.
+# terrible lizard.
+- ferocious animal.
+
+2. During which period did dinosaurs first appear?
+- Jurassic Period
+# Triassic Period
+- Permian Period
+- Neolithic Era
+
+3. Which modern animal's ancestors were not around during the time of dinosaurs?
+- sharks
+- crocodiles
+- turtles
+# bears
+
+4. For how many years were dinosaurs in existence?
+- 400 million years
+- 275 million years
+# 165 million years
+- 10 million years
+
+5. When did dinosaurs become extinct?
+# 65 million years ago
+- 65 billion years ago
+- 250 million years ago
+- 475 million years ago
+
+----------
+
+Name: Indian culture
+
+1. The mountains that protected the Indus River Valley from the north are called the ______
+- Khybers
+- Aryans
+- Indus
+# Himalayas
+
+2. What are monsoons?
+- Irrigation canals
+- Great Indian warriors
+# Seasonal wind patterns that cause heavy rainfall
+- Early Indian priests
+
+3. What are the names of the tow major cities built along the Indus River?
+- Phoenix and Euphrates
+# Mohenjo Daro and Harappa
+- Acadia and Ur
+- Harappa and Babylon
+
+----------
+
+Name: Ancient India
+Description: A brief overview of ancient India, Hinduism, and Buddhism. #india #hinduism #buddhism
+
+1. The sacred writings of the Hindu religion are known as:
+- The Bible
+- Sanskrit
+- The Koran
+# The Vedas
+
+2. Which weather pattern in India consists of a wet season and a dry season?
+# Monsoon
+- Hurricanes
+- Floods
+- None of these
+
+----------------------------------------------------------------------------------
+Type: Nat Geo
+
+Name: The Jungle King
+Description: Answer questions about #geography , #wildlife , and #evolution using clips from #NationalGeographic #JaneGoodall #Geography
+
+1. Which lake boarders Gombe Stream National Park?
+- Lake Victoria
+- Lake Chad
+# Lake Tanganyika
+- Lake Malawi
+
+2. What is the scientific name of the chimpanzee?
+# Pan troglodytes
+- Gorilla gorilla
+- Turdus migratorius
+- Puma concolor
+
+3. Which of the following attitudes or skills did Jane Goodall use in her work with the chimps?
+- curiosity
+- observation
+- communication
+# all of these
+
+----------
+
+Name: National Geographic GeoBee (Official) State Birds
+Description: What's the best way to #prep for the National Geographic #GeoBee ? Practice! Take flight with this fun quiz about #official U.S. state #birds ! Learn more about the #NatGeoBee at natgeobee.org
+
+1. The territorial common loon is the official bird of what state called the Land of 10,000 Lakes?
+- Arizona
+# Minnesota
+- Massachusetts
+- Indiana
+
+2. The nene has feet that evolved to grip rough volcanic lava and is which state’s official bird?
+# Hawaii
+- Washington
+- Montana
+- North Carolina
