@@ -1,6 +1,21 @@
 # Prject name
 **Fizzyfest**
 
+Fizzy Fest is a game-based learning platform in which players play the quiz created by the host. The quiz is fully customizable by the host. The host can create any type of quiz with any questions he/she wants.
+
+When the quiz is successfully created host starts the game and 6 digit pin is created. Users/Players connect via that pin in that specific quiz and play.
+
+Technologies Used :-
+
+```
+Laravel
+VueJS
+PostgreSQL
+PHP
+JQuery
+Javascript
+```
+
 ## Pre requirements
 
 ### 1. Create .env file
